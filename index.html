@@ -1,0 +1,34 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Home Jumbotron
+================================================== -->
+<section class="intro full-width">
+    <div class="wrapintro">
+        <h1>Dumbo Childminding</h1>
+        <h2 class="lead">"The best way to make children good is to make them happy" - Oscar Wilde</h2>
+    </div>
+</section>
+
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>Services</span></h2>
+    </div>
+
+    <div class="masonrygrid row listrecent">
+
+    {% for post in site.home_boxes %}
+
+        {% include home_box.html %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
