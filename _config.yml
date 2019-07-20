@@ -1,15 +1,15 @@
 # Site
 name: "Dumbo Childminding"
 title: "Dumbo Childminding"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+description: "Dumbo Childminding provides Childminding services in the Clongriffin and Dublin 13 area"
+meta_description: "Dumbo Childminding"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: ''
 tel: "+353 (85) 172 6589"
 email: 'serena@dumbochildminding.ie'
-google_analytics: ''
+google_analytics: 'UA-144188718-1'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
@@ -43,12 +43,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-analytics
-
-# analytics
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-144188718-1
 
 # Archives
 jekyll-archives:
