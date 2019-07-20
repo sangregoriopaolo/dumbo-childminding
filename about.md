@@ -9,6 +9,7 @@ My name is Serena, I'm originally from Italy but I'm living here in Ireland sinc
 
 Here are my qualifications:
 - Garda Vetted
+- Paediatric First Aid Certified
 - 10 Years of experience with children, with references
 - Bachelor's Degree in Psychology
 - Master's Degree in Psychology

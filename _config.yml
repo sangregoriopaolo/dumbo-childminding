@@ -43,6 +43,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-analytics
+
+# analytics
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-144188718-1
 
 # Archives
 jekyll-archives:
