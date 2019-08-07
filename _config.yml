@@ -34,7 +34,9 @@ authors:
 
 # Collections
 collections:
-  - home_boxes
+  home_boxes:
+    output: true
+    permalink: /:name
 
 # Plugins
 plugins:

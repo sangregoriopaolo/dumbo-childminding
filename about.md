@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 
 ![Serena](assets/images/serena.png){: .no-shadow}
