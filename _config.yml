@@ -54,12 +54,6 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
 
-# Galleries
-galleries:
-  - title: Painting
-    image: /gallery/painting/IMG_20200225_110642.jpg
-    url: /gallery/painting
-
 # Other
 markdown: kramdown
 highlighter: rouge
