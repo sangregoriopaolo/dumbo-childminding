@@ -4,4 +4,4 @@ title: Gallery
 permalink: /gallery
 ---
 
-{% include image-gallery.html folder="/gallery/painting" %}
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
